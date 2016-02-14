@@ -1,1 +1,3 @@
-# temp
+# Tempory Repository
+
+Just for Fun.. ;)
